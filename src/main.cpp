@@ -1,5 +1,5 @@
 #include "main.h"
 
 int main() {
-	hello("world");
+	hello("Anil is HSM");
 }
